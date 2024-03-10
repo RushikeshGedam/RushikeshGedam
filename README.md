@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RushikeshGedam
+- 👋 Hi, I’m Rushikesh Gedam
 - 👀 I’m interested in the field of data analytics
 - 🌱 I’m currently learning SQL,Python and Excel
 - ⚡ Fun fact: Im also an pixel artist :)
